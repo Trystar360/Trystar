@@ -29,9 +29,6 @@
 	color:rgb(150,150,150);
 }
 
-.cardbtn{
-	
-}
-.card-action{
-	height: 25%;
+.desktop, .mobile{
+	display: none;
 }
